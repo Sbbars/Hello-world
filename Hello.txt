@@ -19,6 +19,8 @@ style="width:100%;max-width:960px"></div>
 <p>The instructions below work on the popular Putty client for Windows. Look further down for more generic instructions, including how to copy code into Vim without changing its formatting (important for Python code).<p>
 <p> This is the change we are goining to do</ p>
 <p> Again the changes are made to avoid </p>
+<p> This is edit from skeleton branch </p>
+
 
 
 
